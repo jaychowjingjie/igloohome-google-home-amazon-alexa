@@ -1,2 +1,2 @@
 # igloohome_google_home_amazon_alexa
-Software Development Summer Internship 2017
+Igloohome Software Development Summer Internship 2017
