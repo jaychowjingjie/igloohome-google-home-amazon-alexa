@@ -1,2 +1,3 @@
-# igloohome_google_home_amazon_alexa
-Igloohome Software Engineer Summer Internship 2017, https://www.igloohome.co/
+# igloohome google home and amazon alexa
+Igloohome Software Engineer Summer Internship in 2017
+https://www.igloohome.co/
